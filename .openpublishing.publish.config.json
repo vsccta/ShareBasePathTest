@@ -33,6 +33,22 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "ShareBasePathTestDoc3",
+      "build_source_folder": "ShareBasePathTestDoc3",
+      "build_output_subfolder": "ShareBasePathTestDoc3",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "ShareBasePathTestDocset1",
       "build_source_folder": "ShareBasePathTestDocset1",
       "build_output_subfolder": "ShareBasePathTestDocset1",
